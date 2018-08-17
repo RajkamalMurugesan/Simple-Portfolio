@@ -1,0 +1,56 @@
+body
+{
+	background-color: #fafafa;
+}
+
+#jum1
+{
+	margin-bottom: 0px;
+	background-color: #2196f3;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	padding-left: 5%;
+
+}
+
+#jum2
+{
+	position: relative;
+	top: -60px;
+	background-color: #2196f3;
+}
+
+.paraIntro
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+#jum3
+{
+	background-color: #fafafa;
+	color: #2196f3;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+#myWorks
+{
+	color: #2196f3;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+.myWorksTitle
+{
+	font-size: 30px !important;
+}
+
+a 
+{
+	font-size: 20px;
+}
+
+#social
+{
+	text-align: center;
+}
